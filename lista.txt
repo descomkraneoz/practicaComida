@@ -1,3 +1,15 @@
 cafe
 leche
 zumo
+
+pera
+manzana
+limón
+
+ternera
+cerdo
+pollo
+
+lejia
+detergente
+champú 
