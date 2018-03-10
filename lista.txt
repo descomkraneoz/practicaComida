@@ -25,3 +25,7 @@ Aquarius
 Alcachofas
 Judias Verdes
 Calabaza
+
+berenjena
+nabo
+patata
